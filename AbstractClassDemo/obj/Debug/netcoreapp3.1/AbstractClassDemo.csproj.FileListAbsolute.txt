@@ -1,0 +1,12 @@
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\netcoreapp3.1\AbstractClassDemo.exe
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\netcoreapp3.1\AbstractClassDemo.deps.json
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\netcoreapp3.1\AbstractClassDemo.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\netcoreapp3.1\AbstractClassDemo.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\netcoreapp3.1\AbstractClassDemo.dll
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\bin\Debug\netcoreapp3.1\AbstractClassDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\netcoreapp3.1\AbstractClassDemo.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\netcoreapp3.1\AbstractClassDemo.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\netcoreapp3.1\AbstractClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\netcoreapp3.1\AbstractClassDemo.dll
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\netcoreapp3.1\AbstractClassDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\AbstractClassDemo\AbstractClassDemo\obj\Debug\netcoreapp3.1\AbstractClassDemo.genruntimeconfig.cache
